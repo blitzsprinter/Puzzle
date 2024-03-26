@@ -1,4 +1,4 @@
-# puzzle
+# Image Puzzle Game
 Puzzle Game playing with matching the same pictures.
 
 ### Technologies
